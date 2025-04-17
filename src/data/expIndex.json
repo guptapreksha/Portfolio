@@ -1,0 +1,30 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Languages & Frameworks",
+        "description": "I have hands-on experience with a variety of programming languages and frameworks including C, C++, Python, JavaScript, HTML, CSS, and modern libraries like React.js, along with Web3 integration for decentralized applications"
+      },
+      {
+        "id": "2",
+        "src": "./img/feather-pen-1.png",
+        "title": "Technical Skills",
+        "description": "My technical skill set includes expertise in Object-Oriented Programming (OOPs), working with databases such as MySQL and MongoDB, developing and integrating RESTful APIs, and building responsive interfaces using Tailwind CSS and Bootstrap."
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "Tools",
+        "description": "I am proficient in using development and collaboration tools such as Git, GitHub, and Microsoft Office, Microsoft Excel which help streamline my workflow and improve productivity in both individual and team environments."
+      },
+      {
+        "id": "4",
+        "src": "./img/tag-1.png",
+        "title": "Professional Skills",
+        "description": "I bring strong teamwork, communication, and cooperation skills to every project, along with a high level of adaptability and a continuous drive for learning and growth in dynamic environments."
+  
+  
+      }
+    ]
+  }

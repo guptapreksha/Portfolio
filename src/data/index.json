@@ -1,0 +1,101 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Languages & Framework",
+      "description": "• C, C++, Python\n•JS, HTML, CSS\n• React.js \n• Web3 integration "
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-1.png",
+      "title": "Technical Skills",
+      "description": "• Object-Oriented Programming\n•MySQL and MongoDB\n• RESTful API\n• Tailwind CSS and Bootstrap"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Tools",
+      "description": "• Git \n• GitHub\n• Microsoft Office Word\n• Microsoft Office Excel"
+    },
+    {
+      "id": "4",
+      "src": "./img/tag-1.png",
+      "title": "Professional Skills",
+      "description": "• Teamwork & communication\n• Adaptability \n• Continuous learning \n• problem-solving mindset"
+    }
+  ],
+  
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/mern.png",
+      "title": "Mern Stack",
+      "description": "Developed a responsive food delivery application using the MERN stack. Users can explore menus, add items to cart, and securely place orders.",
+      "link": "https://github.com/guptapreksha/Mern-FoodDeliveryProject/tree/main/frontend"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Admin Panel",
+      "description": "The admin panel allows restaurant owners to add more items in menu , manage orders, inventory, and delivery statuses in real-time.",
+      "link": "https://github.com/guptapreksha/Mern-FoodDeliveryProject/tree/main/admin"
+    },
+    {
+      "id": "3",
+      "src": "./img/ui.png",
+      "title": "UI/UX Design",
+      "description": "Designed a calm, minimal UI/UX for CandleAura — clean, soothing design with a focus on elegance and user flow.",
+      "link": "https://ui-design-candleaura.web.app/"
+    }
+  ],
+  "exp": [
+    {
+      "id": "1",
+      "date": "Jun 2022 - Aug 2022",
+      "title": "Let’s Grow More Community ",
+      "position" : "Frontend Developer Intern",
+      "description": "I focused on web development and UI design. I built a responsive shopping cart landing page and created mini projects like a calculator, to-do list, and registration form using HTML, CSS, and JavaScript."
+    },
+    {
+      "id": "2",
+      "date": "Jun 2023 - Feb 2024",
+      "title": "TREES Enterprise",
+      "position" : "Graphic and UI Designer",
+      "description": "I designed posters and presentations using Canva, and contributed to the company’s website UI using Figma, creating visually appealing templates and layouts and focuses on the visual and interactive aspects of digital products"
+    },
+    {
+      "id": "3",
+      "date": "Mar 2024 - Jan 2025",
+      "title": "Codebird Technologies Pvt Ltd ",
+      "position" : "Frontend Developer",
+      "description": "I collaborated with cross-functional teams to develop innovative features, integrated Web3 blockchain technology, enhanced performance for speed and scalability, and implemented third-party APIs to boost functionality."
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
