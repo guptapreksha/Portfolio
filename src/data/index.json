@@ -32,14 +32,14 @@
       "src": "./img/mern.png",
       "title": "Mern Stack",
       "description": "Developed a responsive food delivery application using the MERN stack. Users can explore menus, add items to cart, and securely place orders.",
-      "link": "https://github.com/guptapreksha/Mern-FoodDeliveryProject/tree/main/frontend"
+      "link": "https://mern-project-frontend-9gvh.onrender.com/"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
+      "src": "./img/admin.png",
       "title": "Admin Panel",
       "description": "The admin panel allows restaurant owners to add more items in menu , manage orders, inventory, and delivery statuses in real-time.",
-      "link": "https://github.com/guptapreksha/Mern-FoodDeliveryProject/tree/main/admin"
+      "link": "https://mern-project-admin.onrender.com/list"
     },
     {
       "id": "3",
