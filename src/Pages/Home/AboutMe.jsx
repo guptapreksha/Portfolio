@@ -18,9 +18,12 @@ export default function MyPortfolio() {
 
             <div className="about--section--card--content">
               <div >
-                <h4 className="about--section--date">{item.date}</h4>
-                <h4 className="about--section--title">{item.title}</h4>
+                <div className="title-date-row">
+                  <h4 className="about--section--title">{item.title}</h4>
+                  <h4 className="about--section--date">{item.date}</h4>
+                </div>
                 <h4 className="about--section--position">{item.position}</h4>
+                {/* <p className="text-md">{item.position}</p> */}
                 <p className="text-md">{item.description}</p>
               </div>
             </div>

@@ -367,14 +367,23 @@ nav , footer {
   gap: 32px;
   align-self: stretch;
 }
+.title-date-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .about--section--date {
   padding-bottom: 5px;
+  color: var(--darkblue);
 }
 .about--section--title {
   padding-bottom: 10px;
+  color: var(--darkblue);
 }
 .about--section--position {
   padding-bottom: 5px;
+  /* color: var(--primary); */
 }
 
 /* About Us Ends */
@@ -673,9 +682,10 @@ input[type="checkbox"] {
   .footer--content {
     text-align: center;
   }
-  .skills--section--container,
-  .about--section,
+  .skills--section--container,  
+  .about--section--container,
   .portfolio--section--container,
+  .about--container-box,
   .portfolio--container-box,
   .footer--link--container,
   .footer--items > ul,
@@ -732,6 +742,15 @@ input[type="checkbox"] {
   }
   .divider {
     margin: 20px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .hero--section,
+  .about--section,
+  .skills--section,
+  .portfolio--section ,
+  .contact--section{
+    padding: 100px 30px;
   }
 }
 
@@ -807,5 +826,6 @@ input[type="checkbox"] {
     transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
   }
 }
+
 
 /* Responsive Screens Ends*/

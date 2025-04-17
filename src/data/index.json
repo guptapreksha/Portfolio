@@ -52,21 +52,21 @@
   "exp": [
     {
       "id": "1",
-      "date": "Jun 2022 - Aug 2022",
+      "date": "Jun 22-Aug 22",
       "title": "Let’s Grow More Community ",
       "position" : "Frontend Developer Intern",
       "description": "I focused on web development and UI design. I built a responsive shopping cart landing page and created mini projects like a calculator, to-do list, and registration form using HTML, CSS, and JavaScript."
     },
     {
       "id": "2",
-      "date": "Jun 2023 - Feb 2024",
+      "date": "Jun 23-Feb 24",
       "title": "TREES Enterprise",
       "position" : "Graphic and UI Designer",
       "description": "I designed posters and presentations using Canva, and contributed to the company’s website UI using Figma, creating visually appealing templates and layouts and focuses on the visual and interactive aspects of digital products"
     },
     {
       "id": "3",
-      "date": "Mar 2024 - Jan 2025",
+      "date": "Mar 24-Jan 25",
       "title": "Codebird Technologies Pvt Ltd ",
       "position" : "Frontend Developer",
       "description": "I collaborated with cross-functional teams to develop innovative features, integrated Web3 blockchain technology, enhanced performance for speed and scalability, and implemented third-party APIs to boost functionality."
