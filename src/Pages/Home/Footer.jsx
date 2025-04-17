@@ -18,7 +18,8 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="heroSection"
-                className="text-md"
+                // className="text-md"
+                className="navbar--content"
               >
                 Home
               </Link>
@@ -31,7 +32,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="AboutMe"
-                className="text-md"
+                 className="navbar--content"
               >
                 Experience
               </Link>
@@ -44,7 +45,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="MyPortfolio"
-                className="text-md"
+                 className="navbar--content"
               >
                 Portfolio
               </Link>
@@ -58,7 +59,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="Contact"
-                className="text-md"
+                 className="navbar--content"
               >
                 Contact
               </Link>

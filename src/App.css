@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: "Roboto", sans-serif;
   -moz-osx-font-smoothing: "Roboto", sans-serif;
   font-style: normal;
+  
 }
 h1,
 h2,
@@ -128,6 +129,15 @@ h2 {
   line-height: 21px;
 }
 
+.hero--section , .about--section, .skills--section, .portfolio--section{
+  user-select: text;         /* Allow selecting */
+  caret-color: transparent;  /* Hide the blinking cursor */
+}
+
+nav , footer {
+  user-select: text;         /* Allow selecting */
+  caret-color: transparent;  /* Hide the blinking cursor */
+}
 /* Section Titles */
 /* Skills & About Me */
 .section--title {
@@ -316,6 +326,7 @@ h2 {
   flex-direction: column;
   align-items: flex-start;
   gap: 80px;
+  background-color: var(--bg-shade);
 }
 .about--container-box {
   display: flex;
@@ -490,6 +501,10 @@ h2 {
   text-align: center;
   gap: 64px;
   background-color: var(--bg-shade);
+}
+.contact--text {
+  user-select: text;         /* Allow selecting */
+  caret-color: transparent;  /* Hide the blinking cursor */
 }
 .contact--form--container {
   display: grid;

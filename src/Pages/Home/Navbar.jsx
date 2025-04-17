@@ -35,7 +35,18 @@ function Navbar() {
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
-        <img src="./img/logo-p.png" alt="Logoipsum" height={'50px'}/>
+      <Link
+  to="heroSection"
+  spy={true}
+  smooth={true}
+  offset={-70}
+  duration={500}
+  onClick={closeMenu}  // optional: to close mobile nav
+>
+  <img src="./img/logo-p.png" alt="Logoipsum" height="50px" />
+</Link>
+
+        {/* <img src="./img/logo-p.png" alt="Logoipsum" height={'50px'}/> */}
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}

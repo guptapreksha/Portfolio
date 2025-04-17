@@ -16,10 +16,10 @@ export default function HeroSection() {
         </div>
         {/* <button className="btn btn-primary">Get In Touch</button>s */}
       </div>
-      {/* <div className="hero--section--img"> */}
+      <div className="hero--section--img">
         {/* <img src="./img/profile-img.jpg" alt="Hero Section"/> */}
         <img src="./img/hero-img.png" alt="Hero Section"/>
-      {/* </div> */}
+      </div>
     </section>
   );
 }
